@@ -12,8 +12,11 @@ This repository contains the source code and data for the project, including:
 
 ## Model Explanation
 <img src="Images/TextCNNArchi.png" alt="Text CNN Architecture" width="600" height="300"/>
+Original TextCNN Architecture
 <img src="Images/selfAttention.png" alt="Self Attention Architecture" width="600" height="300"/>
+Self Attention Architecture(We use the selfAttention to improve the work of text tokenization)
 <img src="Images/model.png" alt="Final model Architecture" width="900" height="200"/>
+The final Architecture of our model.
 ## Installation
 
 To run this project, clone the repository and install the required dependencies:

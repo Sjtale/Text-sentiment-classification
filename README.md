@@ -10,6 +10,10 @@ This repository contains the source code and data for the project, including:
 - **Model Implementation**: a self-attention to improve the original TextCNN and use BERT as a front-end to improve the performance
 - **Datasets**: Preprocessed datasets used for training and evaluation, designed to test the robustness of text sentiment classification.
 
+## Model Explanation
+<img src="Images/TextCNNArchi.png" alt="Text CNN Architecture" width="600" height="300"/>
+<img src="Images/selfAttention.png" alt="Self Attention Architecture" width="600" height="300"/>
+<img src="Images/model.png" alt="Final model Architecture" width="900" height="200"/>
 ## Installation
 
 To run this project, clone the repository and install the required dependencies:
